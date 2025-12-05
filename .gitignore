@@ -1,0 +1,15 @@
+# Git ignore rules for Python project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+env/
+ENV/
+venv/
+.venv/
+data/raw/
+outputs/logs/
+.DS_Store
+Thumbs.db
